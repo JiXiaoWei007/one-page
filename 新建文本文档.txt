@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>后台</title>
+    <title>��̨</title>
     <style>
         .bad{
             width:100%;
@@ -198,58 +198,58 @@
 </head>
 <body>
     <div class="bad">
-        <div class="bad1">师徒电子商务后台管理系统</div>
-        <div class="bad2">师徒课堂</div>
+        <div class="bad1">ʦͽ���������̨����ϵͳ</div>
+        <div class="bad2">ʦͽ����</div>
     </div>
     <div class="st">
-        <div class="st1">慕课<商品管理<<商品修改
+        <div class="st1">Ľ��<��Ʒ����<<��Ʒ�޸�
             <div class="st1_a">
-                <img src="../day12/images/a7_03.jpg">首页
+                <img src="../day12/images/a7_03.jpg">��ҳ
             </div>
             <div class="st1_b">
-                <img src="../day12/images/a5_05.jpg">后退
+                <img src="../day12/images/a5_05.jpg">����
             </div>
             <div class="st1_c">
-                <img src="../day12/images/a5_07.jpg">前进
+                <img src="../day12/images/a5_07.jpg">ǰ��
             </div>
             <div class="st1_d">
-                <img src="../day12/images/a7_09.jpg">刷新
+                <img src="../day12/images/a7_09.jpg">ˢ��
             </div>
             <div class="st1_e">
-                <img src="../day12/images/a7_11.jpg">退出
+                <img src="../day12/images/a7_11.jpg">�˳�
             </div>
         </div>
         <div class=st2>
             <img src="../day12/images/a5_13.jpg" width="30px" height="30px">
-            <div class="st2_a">管理员</div>
-            <div class="st2_b">商品管理</div>
-            <div class="st2_c">商品修改</div>
-            <div class="st2_d">商品分类</div>
-            <div class="st2_e">订单管理</div>
-            <div class="st2_e">订单管理</div>
-            <div class="st2_e">订单管理</div>
-            <div class="st2_f">会员管理</div>
+            <div class="st2_a">����Ա</div>
+            <div class="st2_b">��Ʒ����</div>
+            <div class="st2_c">��Ʒ�޸�</div>
+            <div class="st2_d">��Ʒ����</div>
+            <div class="st2_e">��������</div>
+            <div class="st2_e">��������</div>
+            <div class="st2_e">��������</div>
+            <div class="st2_f">��Ա����</div>
             <div class="st2_g"></div>
         </div> 
     </div>
     <div class="yb">
         <div class="yb1">
-            <img src="../day12/images/a6_19.jpg">产品管理
+            <img src="../day12/images/a6_19.jpg">��Ʒ����
         </div>
         <div class="yb2">
-            <button type="button">添  加
+            <button type="button">��  ��
         </div>
-        <div class="yb3">商品名称
+        <div class="yb3">��Ʒ����
             <select>
                 <option value="   "></option>
             </select>
         </div>
-        <div class="yb4">上架时间
+        <div class="yb4">�ϼ�ʱ��
             <select>
                 <option value="2013/2/3">2013/2/3</option>
             </select>
         </div>
-        <div class="yb5">搜索:
+        <div class="yb5">����:
             <select>
                 <option value=""></option>
             </select>
@@ -257,10 +257,10 @@
         <div class="bg">
             <table border="1" cellspacing="1" cellpadding="1" width="700px" style="border-collapse: collapse;">
                 <tr>
-                    <td>编号</td>
-                    <td>标题</td>
-                    <td>来源</td>
-                    <td>操作</td>
+                    <td>���</td>
+                    <td>����</td>
+                    <td>��Դ</td>
+                    <td>����</td>
                 </tr>
                 <tr>
                     <td>
@@ -268,11 +268,11 @@
                             <input type="checkbox" name="vehicle" value="001">001
                         </form>    
                     </td>
-                    <td>后台设计</td>
-                    <td>城市大学</td>
+                    <td>��̨���</td>
+                    <td>���д�ѧ</td>
                     <td>
-                        <button type="button">删除
-                        <button type="button">修改
+                        <button type="button">ɾ��
+                        <button type="button">�޸�
                     </td>
                     
                 </tr>
@@ -282,11 +282,11 @@
                             <input type="checkbox" name="vehicle" value="001">001
                         </form>    
                     </td>
-                    <td>后台设计</td>
-                    <td>城市大学</td>
+                    <td>��̨���</td>
+                    <td>���д�ѧ</td>
                     <td>
-                        <button type="button">删除
-                        <button type="button">修改
+                        <button type="button">ɾ��
+                        <button type="button">�޸�
                     </td>
                 </tr>
                 <tr>
@@ -295,11 +295,11 @@
                             <input type="checkbox" name="vehicle" value="001">001
                         </form>    
                     </td>
-                    <td>后台设计</td>
-                    <td>城市大学</td>
+                    <td>��̨���</td>
+                    <td>���д�ѧ</td>
                     <td>
-                        <button type="button">删除
-                        <button type="button">修改
+                        <button type="button">ɾ��
+                        <button type="button">�޸�
                     </td>
                 </tr>
                 <tr>
@@ -308,11 +308,11 @@
                             <input type="checkbox" name="vehicle" value="001">001
                         </form>    
                     </td>
-                    <td>后台设计</td>
-                    <td>城市大学</td>
+                    <td>��̨���</td>
+                    <td>���д�ѧ</td>
                     <td>
-                        <button type="button">删除
-                        <button type="button">修改
+                        <button type="button">ɾ��
+                        <button type="button">�޸�
                     </td>
                 </tr>
                 <tr>
@@ -321,11 +321,11 @@
                             <input type="checkbox" name="vehicle" value="001">001
                         </form>    
                     </td>
-                    <td>后台设计</td>
-                    <td>城市大学</td>
+                    <td>��̨���</td>
+                    <td>���д�ѧ</td>
                     <td>
-                        <button type="button">删除
-                        <button type="button">修改 
+                        <button type="button">ɾ��
+                        <button type="button">�޸� 
                     </td>
                 </tr>
                 <tr>
@@ -334,11 +334,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改
+                            <button type="button">ɾ��
+                            <button type="button">�޸�
                         </td>
                 </tr>
                 <tr>
@@ -347,11 +347,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改
+                            <button type="button">ɾ��
+                            <button type="button">�޸�
                         </td>
                         
                 </tr>
@@ -361,11 +361,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改
+                            <button type="button">ɾ��
+                            <button type="button">�޸�
                         </td>
                 </tr>
                 <tr>
@@ -374,11 +374,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改
+                            <button type="button">ɾ��
+                            <button type="button">�޸�
                         </td>
                 </tr>
                 <tr>
@@ -387,11 +387,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改
+                            <button type="button">ɾ��
+                            <button type="button">�޸�
                         </td>
                 </tr>
                 <tr>
@@ -400,11 +400,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改 
+                            <button type="button">ɾ��
+                            <button type="button">�޸� 
                         </td>
                 </tr>
                 <tr>
@@ -413,11 +413,11 @@
                                     <input type="checkbox" name="vehicle" value="001">001
                                 </form>    
                             </td>
-                            <td>后台设计</td>
-                            <td>城市大学</td>
+                            <td>��̨���</td>
+                            <td>���д�ѧ</td>
                             <td>
-                                <button type="button">删除
-                                <button type="button">修改 
+                                <button type="button">ɾ��
+                                <button type="button">�޸� 
                             </td>
                 </tr>
                 <tr>
@@ -426,11 +426,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改 
+                            <button type="button">ɾ��
+                            <button type="button">�޸� 
                         </td>
                 </tr>
                 <tr>
@@ -439,11 +439,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改 
+                            <button type="button">ɾ��
+                            <button type="button">�޸� 
                         </td>
                 </tr>
                 <tr>
@@ -452,11 +452,11 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改 
+                            <button type="button">ɾ��
+                            <button type="button">�޸� 
                         </td>
                 </tr>
                 <tr>
@@ -465,18 +465,18 @@
                                 <input type="checkbox" name="vehicle" value="001">001
                             </form>    
                         </td>
-                        <td>后台设计</td>
-                        <td>城市大学</td>
+                        <td>��̨���</td>
+                        <td>���д�ѧ</td>
                         <td>
-                            <button type="button">删除
-                            <button type="button">修改 
+                            <button type="button">ɾ��
+                            <button type="button">�޸� 
                         </td>
                 </tr>
             </table>
             <div class="db">
-                <div class="db1">全选</div>
-                <div class="db2">删除</div>
-                <div class="db3">共找到92记录，每页15条记录 上一页1 2 3 4 5 6 7 下一页</div>
+                <div class="db1">ȫѡ</div>
+                <div class="db2">ɾ��</div>
+                <div class="db3">���ҵ�92��¼��ÿҳ15����¼ ��һҳ1 2 3 4 5 6 7 ��һҳ</div>
             </div>
         </div>  
     </div> 
